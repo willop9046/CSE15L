@@ -1,3 +1,38 @@
 ## Lab Report 1
 by William Lin
 
+> Command: cd
+
+1. Nothing happened when the command cd is used with no arguments
+```
+willop@Williams-MacBook-Pro ~ % pwd
+/Users/willop
+willop@Williams-MacBook-Pro ~ % cd
+willop@Williams-MacBook-Pro ~ % pwd
+/Users/willop
+```
+2. cd command navigate us to the directory we typed after the cd command
+```
+willop@Williams-MacBook-Pro ~ % pwd
+/Users/willop
+willop@Williams-MacBook-Pro ~ % cd Desktop 
+willop@Williams-MacBook-Pro Desktop % pwd
+/Users/willop/Desktop
+```
+3. cd command doesn't work when file is the argument. The output shows an error.
+```
+willop@Williams-MacBook-Pro photo % pwd
+/Users/willop/Desktop/photo
+willop@Williams-MacBook-Pro photo % cd DSC02230.jpg
+cd: not a directory: DSC02230.jpg
+willop@Williams-MacBook-Pro photo % pwd
+/Users/willop/Desktop/photo
+```
+
+> Command: ls
+
+
+
+> Command cat
+
+

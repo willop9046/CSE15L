@@ -1,5 +1,4 @@
-## Lab Report 1
-William Lin A17402486
+## Lab Report 1 - William Lin (A17402486)
 
 2023/10/03 Tuesday 12:00 ~ 1:50  
 Some commands we learned about today are git clone, cd, ls, cat, java, javac, pwd and also how to host a repository on github pages. 

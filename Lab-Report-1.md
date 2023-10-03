@@ -1,5 +1,5 @@
 ## Lab Report 1
-by William Lin
+William Lin A17402486
 
 > Command: cd
 

@@ -54,7 +54,7 @@ class StringServer {
 ```
 
 > Screenshot 1
-![Image](add-1.png)
+![Image](add1.png)
 
 - The handleRequest function is called.
 - The handleRequest is called when "/" or "/add-message" appeared in the path of the URL. Path other than those two path, the function will return a string telling the user that that page is not found, which shows "404 Not Found!". num variable is used to keep track of the index of the current word in the ArrayList words. ArrayList words stored all the word added.
@@ -62,7 +62,7 @@ class StringServer {
 
 
 > Screenshot 2
-![Image](add-2.png)
+![Image](add2.png)
 
 - The handleRequest function is called.
 - The handleRequest is called when "/" or "/add-message" appeared in the path of the URL. Path other than those two path, the function will return a string telling the user that that page is not found, which shows "404 Not Found!". num variable is used to keep track of the index of the current word in the ArrayList words. ArrayList words stored all the word added.

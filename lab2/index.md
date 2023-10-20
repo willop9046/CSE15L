@@ -3,7 +3,9 @@
 2023/10/17 Tuesday 12:00 ~ 1:50  
 
 > Part 1
+
 ```
+
 import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
@@ -51,6 +53,7 @@ class StringServer {
         Server.start(port, new Handler());
     }
 }
+
 ```
 
 > Screenshot 1

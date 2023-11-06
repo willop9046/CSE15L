@@ -59,16 +59,16 @@ class StringServer {
 > Screenshot 1
 ![Image](add1.png)
 
-- The handleRequest function is called.
-- The handleRequest is called when "/" or "/add-message" appeared in the path of the URL. Path other than those two path, the function will return a string telling the user that that page is not found, which shows "404 Not Found!". num variable is used to keep track of the index of the current word in the ArrayList words. ArrayList words stored all the word added.
+- The ```handleRequest``` function is called.
+- The handleRequest is called when ```url.getPath().equals("/")``` or ```url.getPath().contains("/add-message")``` appeared in the path of the URL. Path other than those two path, the function will return a string telling the user that that page is not found, which shows "404 Not Found!". num variable is used to keep track of the index of the current word in the ArrayList words. ArrayList words stored all the word added.
 - I set a integer variable num that starts at 1 and increment as words are added into the ArrayList words. The ArrayList words is instantiated along with num at the beginning of the function. In screenshot 1, what ever words after "/add-messsage?s=" is stored in the ArrayList words with num value 1 + the string parsed into parameters[1] "How are you" and also "\n" which switch to a new line.
 
 
 > Screenshot 2
 ![Image](add2.png)
 
-- The handleRequest function is called.
-- The handleRequest is called when "/" or "/add-message" appeared in the path of the URL. Path other than those two path, the function will return a string telling the user that that page is not found, which shows "404 Not Found!". num variable is used to keep track of the index of the current word in the ArrayList words. ArrayList words stored all the word added.
+- The ```handleRequest``` function is called.
+- The handleRequest is called when ```url.getPath().equals("/")``` or ```url.getPath().contains("/add-message")``` appeared in the path of the URL. Path other than those two path, the function will return a string telling the user that that page is not found, which shows "404 Not Found!". num variable is used to keep track of the index of the current word in the ArrayList words. ArrayList words stored all the word added.
 - In screenshot 2, num is increased to 2 and stored with the ArrayList words and is updated with the new words "My name is William Lin."
 
 > Part 2

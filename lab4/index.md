@@ -3,6 +3,7 @@
 2023/11/14 Tuesday 12:00 ~ 1:50  
 
 > Step 4
+
 ![Image](step4.png)
 Key Pressed
 ```
@@ -11,6 +12,7 @@ Key Pressed
 The ssh cs15lfa23ls@ieng.ucsd.edu command was 1 up in the search history, so I used up arrow to access it.
 
 > Step 5
+
 ![Image](step5.png)
 Key Pressed
 ```
@@ -19,6 +21,7 @@ git clone <Command-V><enter>
 I copyied the ssh url from my forked repository and paste the url into terminal.
 
 > Step 6
+
 ![Image](step6.png)
 Key Pressed
 ```
@@ -29,6 +32,7 @@ I used cd command and type l and tab to complete the name of the directory and n
 Then run the test with bash and type t and tab to auto complete the filename test.sh in lab7/.
 
 > Step 7
+
 ![Image](step7.png)
 Key Pressed
 ```
@@ -45,6 +49,7 @@ press ```<esc>``` to enter normal mode
 type :wq and ````<enter>```to save the file and quit
 
 > Step 8
+
 ![Image](step8.png)
 Key Pressed
 ```
@@ -53,6 +58,7 @@ Key Pressed
 The bash command was 2 up in the search history, so I used up arrow twice to access it.
 
 > Step 9
+
 ![Image](step9.png)
 Key Pressed
 ```

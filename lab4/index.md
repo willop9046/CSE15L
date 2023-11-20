@@ -46,7 +46,7 @@ x to delete the character currently on
 i to enter insert mode
 then replace the blank spot with '2'
 press ```<esc>``` to enter normal mode
-type :wq and ````<enter>```to save the file and quit
+type :wq and ```<enter>```to save the file and quit
 
 > Step 8
 
